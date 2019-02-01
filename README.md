@@ -15,11 +15,11 @@ A)this.tbsamples.value is track bar values is used to provide scrolling with a l
 7)What is this.cboAlg1?  Set its SelectedIndex to an integer so that the default is Bucket Sort
 A)cboAlg1 is a combox ued to select the different type of sorts in the list
 8)What is this.cboAlg2? Set its SelectedIndex to an integer so that the default is Quick Sort.
-A)
+A)cboAlg2 is a combox ued to select the different type of sorts in the list
 9)Use AppDomain.CurrentDomain.BaseDirectory.ToString() to get the base directory. 
 A)
 10)Create a new method called InitializeOutputFolder() and call it - see the suggested content below. What does this method do? 
-A)
+A)This method stored the each stage of sorting algorithms in pictures.
 11)What is this.cmdShuffle?  Call its PerformClick() method before exiting Form1_Load.
 A)
 12)What is this.cmdSort?  Change its appearance (e.g. ForeColor or BackColor) to highlight it so users will click it. 
