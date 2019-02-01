@@ -9,3 +9,14 @@ C:\Users\s533714\.dotnet\SortComparison_src\SortComparison\obj\x86\Debug\SortCom
 C:\Users\s533714\.dotnet\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 C:\Users\s533714\.dotnet\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\s533714\.dotnet\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\Users\S533904\44663\WS4\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
