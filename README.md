@@ -11,9 +11,9 @@ A)InitializeComponent() method is called by  main form constructor and  frmMain 
 5)What is the fully qualified name of the class from which the main form is derived? 
 A) Form is the fully qualified name of the class from which the main form is derived.
 6)Add code to the Form1_Load method - use intellisense and your IDE to determine: What is this.tbSamples.Value? Set the default value to 10x your team number (if team 1, use 100). If this causes an error, read the error message carefully and make changes as needed.
-A)
+A)this.tbsamples.value is track bar values is used to provide scrolling with a little different interface than a scrollbar.
 7)What is this.cboAlg1?  Set its SelectedIndex to an integer so that the default is Bucket Sort
-A)
+A)cboAlg1 is a combox ued to select the different type of sorts in the list
 8)What is this.cboAlg2? Set its SelectedIndex to an integer so that the default is Quick Sort.
 A)
 9)Use AppDomain.CurrentDomain.BaseDirectory.ToString() to get the base directory. 
